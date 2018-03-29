@@ -6,7 +6,8 @@ package ru.gtest;
 public class SolveHw2 {
 
   public static void main(String[] args) {
-    System.out.println("HW2");
+    System.out.println("HW2 - 1");
+    System.out.println("HW2 - 2");
   }
 
 }
