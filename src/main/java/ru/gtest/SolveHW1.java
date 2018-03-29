@@ -5,4 +5,9 @@ package ru.gtest;
  */
 public class SolveHW1 {
 
+  public static void main(String[] args) {
+    System.out.println("HW1");
+    System.out.println("HW2");
+  }
+
 }
